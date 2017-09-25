@@ -45,4 +45,4 @@ while :; do
 
   echo $buf
   sleep 1
-done |  dzen2 -h 28 -w 1920 -fn 'Roboto Medium:size=13' -ta l -xs 3 -e "button7=exit"
+done |  dzen2 -h 28 -w 1920 -fn 'Roboto Medium:size=13' -ta l -e "button7=exit"
